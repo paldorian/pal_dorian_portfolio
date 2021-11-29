@@ -12,7 +12,7 @@
     <h1 class="doboz1">Pál Dorián - Portfólió</h1>
     <div class="lista">
         <ul>
-               <li class="doboz2"><a href="index.html.html">Kezdőlap</a></li>
+               <li class="doboz2"><a href="index.html">Kezdőlap</a></li>
                <li class="doboz2"><a href="rólam.html">Rólam</a></li>
                <li class="doboz2"><a href="kapcsolat.html">Kapcsolat</a></li>
                <li class="doboz2"><a href="tervezés.html">Tervezés</a></li>
